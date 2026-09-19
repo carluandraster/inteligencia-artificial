@@ -1,0 +1,9 @@
+{
+    "include": [
+        "Sugeno"
+    ],
+    "extraPaths": [
+        "typings"
+    ],
+    "typeCheckingMode": "basic"
+}
